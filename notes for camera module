@@ -1,0 +1,16 @@
+step 1:  installed the opencv-python this helps in caputring the video and processing
+    this also install numpy as an support library as well
+
+opencv-python:
+https://pypi.org/project/opencv-python/
+
+
+step 2: created a new file named camera.py and wrote the code for accessing the camera module 
+(it worked smoothly lol )
+
+step3: now the next goal was to make an interface (more user frendly) cause at this moment it is just opening up camera nothing to fancy.
+sooo let's create a user frendly interface which i know nothing abot lol
+
+
+Used tkinter for creating the gui user interface:
+https://docs.python.org/3/library/tkinter.html
