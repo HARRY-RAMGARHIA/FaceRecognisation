@@ -1,3 +1,5 @@
+this is the vid that i used for setting up git on my pc (it's in hindi)
+
 step 1:  installed the opencv-python this helps in caputring the video and processing
     this also install numpy as an support library as well
 
@@ -14,3 +16,4 @@ sooo let's create a user frendly interface which i know nothing abot lol
 
 Used tkinter for creating the gui user interface:
 https://docs.python.org/3/library/tkinter.html
+
